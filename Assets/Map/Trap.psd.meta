@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: cacc86bf30757474285145085e653e5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trap_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 801
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce2b1358c13f149b343b78482425bd
+      internalID: 1183550987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_46
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 228
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b19b3214d502478039dd77bcc686a
+      internalID: -1190086839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 229
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047f177965c8134e837b431c44e94e7
+      internalID: 1252153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_49
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 224
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c40047227223c4abe62cb927abc7cf
+      internalID: -606494112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_51
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 229
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652baf4abca637049bd027daed858644
+      internalID: -693396138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_52
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 229
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65095e071331a09498d70a978381565b
+      internalID: 614709914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 219
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f46a0fbf2a6d74aa2299ff54464e9e
+      internalID: -662688568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2181fe04f0bad6d469f02562bb20289e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trap_17: -152995378
+      Trap_15: -686809931
+      Trap_10: -845836223
+      Trap_82: 944129049
+      Trap_16: -1312231258
+      Trap_42: -1436777649
+      Trap_46: -1190086839
+      Trap_8: 178664738
+      Trap_29: -80873091
+      Trap_52: 614709914
+      Trap_13: 1988530939
+      Trap_66: -372183409
+      Trap_57: 298999242
+      Trap_9: -987838218
+      Trap_74: -1281156990
+      Trap_28: -51705212
+      Trap_30: 810885403
+      Trap_3: 1140106845
+      Trap_21: -651851369
+      Trap_26: 482871766
+      Trap_70: -281562103
+      Trap_80: -767433939
+      Trap_51: -693396138
+      Trap_59: -342333743
+      Trap_27: -383917290
+      Trap_11: 820377579
+      Trap_64: 276239557
+      Trap_6: 1045090988
+      Trap_37: 1079921772
+      Trap_48: 1252153592
+      Trap_75: 606167880
+      Trap_20: -269363232
+      Trap_44: 1831910385
+      Trap_49: -606494112
+      Trap_32: 1755280190
+      Trap_24: 1599519863
+      Trap_72: 754386021
+      Trap_78: -644083893
+      Trap_0: -1461604051
+      Trap_5: 1183550987
+      Trap_36: 524849469
+      Trap_12: -59228957
+      Trap_33: -1892598381
+      Trap_4: 887037509
+      Trap_18: -861038428
+      Trap_19: -2081770822
+      Trap_1: -1472953307
+      Trap_54: 2083948394
+      Trap_22: -443724641
+      Trap_34: 562944886
+      Trap_45: 1264443718
+      Trap_35: 1496232352
+      Trap_31: 1358329088
+      Trap_39: -567703167
+      Trap_47: 1821426484
+      Trap_14: 1100823328
+      Trap_81: -1092907939
+      Trap_43: -1829658077
+      Trap_63: -1814426884
+      Trap_23: -614621253
+      Trap_60: -1168869418
+      Trap_73: -1285155936
+      Trap_50: -735275810
+      Trap_53: -662688568
+      Trap_25: -1849407532
+      Trap_77: -233319391
+      Trap_38: 1179899014
+      Trap_62: 994919972
+      Trap_7: 417679967
+      Trap_40: -2123226671
+      Trap_71: -81156947
+      Trap_84: -1893947923
+      Trap_56: 180770595
+      Trap_65: -392262478
+      Trap_67: -1070154294
+      Trap_68: 1570994456
+      Trap_55: 518609021
+      Trap_79: -1321808589
+      Trap_41: 1067710648
+      Trap_58: -1347255733
+      Trap_61: 1084848045
+      Trap_2: 1703213251
+      Trap_76: -1362595173
+      Trap_83: 1564815072
+      Trap_69: 963131461
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
